@@ -1,0 +1,7 @@
+{
+  "name": "Math Checker IDE",
+  "description": "An AI-powered Math Tutor that helps students find errors in their solutions using the Socratic method. Supports image uploads and step-by-step analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
